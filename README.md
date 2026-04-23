@@ -1,6 +1,6 @@
 # 📊 Sales Performance Analysis (Excel Dashboard)
 
-An interactive Excel dashboard designed to analyze sales performance, profitability, and the impact of discounts on business outcomes.
+An interactive Excel dashboard designed to uncover key sales drivers and improve business profitability.
 
 ---
 
@@ -27,10 +27,9 @@ The goal of this project is to explore sales data and uncover key factors affect
 
 ## 📈 Key Insights
 
-* High discounts significantly reduce overall profitability.
-* Furniture category generates high sales but lower profit margins.
-* Sales performance varies across segments and categories.
-* Profitability is highly sensitive to discount levels.
+- High discounts significantly reduce profitability, directly impacting business performance.
+- A small number of categories drive the majority of revenue, indicating concentration risk.
+- Profitability varies across segments, highlighting opportunities for optimization.
 
 ---
 
