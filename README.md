@@ -21,7 +21,7 @@ The goal of this project is to explore sales data and uncover key factors affect
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](https://github.com/reemashraf-insights/Sales-Performance-Analysis-Excel/blob/main/dashboard.png.png)
 
 ---
 
