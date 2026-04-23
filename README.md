@@ -2,6 +2,8 @@
 
 An interactive Excel dashboard designed to uncover key sales drivers and improve business profitability.
 
+This project demonstrates my ability to turn raw data into clear, actionable insights that drive business decisions.
+
 ---
 
 ## 🎯 Objective
@@ -27,9 +29,11 @@ The goal of this project is to explore sales data and uncover key factors affect
 
 ## 📈 Key Insights
 
-- High discounts significantly reduce profitability, directly impacting business performance.
+- High discounts are the primary driver of profit loss, directly impacting overall business performance.
 - A small number of categories drive the majority of revenue, indicating concentration risk.
 - Profitability varies across segments, highlighting opportunities for optimization.
+
+This analysis helps businesses identify profit leaks and optimize pricing strategies to maximize revenue.
 
 ---
 
@@ -43,4 +47,4 @@ The goal of this project is to explore sales data and uncover key factors affect
 
 ## 🔗 Interactive Dashboard
 
-[Click here to explore](https://1drv.ms/x/c/e8b0d95267705a33/IQDiChcmDSbfR5-UFMFGMlsKAf16zrQFQ9iys-e3IV13V2Y?e=EgVbhe)
+[🔗 Explore the Interactive Dashboarde](https://1drv.ms/x/c/e8b0d95267705a33/IQDiChcmDSbfR5-UFMFGMlsKAf16zrQFQ9iys-e3IV13V2Y?e=EgVbhe)
